@@ -1,0 +1,35 @@
+_repo: Footprints-in-the-Forest_25980
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ellis, Edward Sylvester
+    aliases:
+    - Ellis, E. S. (Edward Sylvester)
+    - Ellis, Edward S. (Edward Sylvester)
+    - Jayne, R. H.
+    birthdate: 1840
+    deathdate: 1916
+    gutenberg_agent_id: '2569'
+    url: http://www.gutenberg.org/2009/agents/2569
+description: The German youth Otto Relstaub was on his way from Kentucky to Louisiana
+  when he was captured by a band of wandering Sauk Indians. This adventure story,
+  set in frontier American in the 1800's, recounts the efforts of his friends Jack
+  Carleton and Deerfoot, a Shawnoe youth, to rescue him.
+gutenberg_issued: '2008-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25980'
+  lccn: '12032297'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Juvenile fiction'
+- !lcsh 'Frontier and pioneer life -- Juvenile fiction'
+- !lcc 'PZ'
+title: Footprints in the Forest
+url: http://www.gutenberg.org/ebooks/25980
